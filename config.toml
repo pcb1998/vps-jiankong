@@ -1,0 +1,6 @@
+[email]
+from = "your_email@example.com"
+to = "recipient_email@example.com"
+smtp_username = "your_smtp_username"
+smtp_password = "your_smtp_password"
+smtp_relay = "smtp.qq.com"    
